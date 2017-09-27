@@ -1,0 +1,8 @@
+{
+  "name": "mediawiki/drawio-editor",
+  "type": "mediawiki-extension",
+  "description": "draw.io flow chart creation and inline editing",
+  "require": {
+    "composer/installers": "~1.0"
+  }
+}
